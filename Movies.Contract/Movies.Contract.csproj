@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Requests\CreateMovieRequest.cs~RF28ea1a6c.TMP" />
+    <None Remove="Responses\MovieReponses.cs~RF28f0af8a.TMP" />
+    <None Remove="Responses\MoviesResponses.cs~RF28f23511.TMP" />
+  </ItemGroup>
+
+</Project>
